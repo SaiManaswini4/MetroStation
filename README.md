@@ -1,4 +1,4 @@
-# Metro Station Management System
+# Metro Station 
 
 ## Introduction
 The Metro Station Management System is designed to optimize metro operations and route planning using data structures and algorithms. It enhances efficiency by automating the management of stations, routes, and passenger flow. This project is built as part of a Data Structures and Algorithms internship.
@@ -40,9 +40,6 @@ The metro system is modeled as a weighted graph where:
 
 ## Contributors
 **Team Members: K.M.S.S.Manaswini, K.Gowri, M.Mounika, P.Amrutha.**
-
-## License
-This project is licensed under the MIT License.
 
 ## Feel free to reach out for any questions or collaboration opportunities!
 

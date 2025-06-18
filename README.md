@@ -42,7 +42,7 @@ The metro system is modeled as a weighted graph where:
 **Team Members: K.M.S.S.Manaswini, K.Gowri, M.Mounika, P.Amrutha.**
 
 ## License
-This project is licensed under the [MIT License].
+This project is licensed under the MIT License.
 
 ## Feel free to reach out for any questions or collaboration opportunities!
 
